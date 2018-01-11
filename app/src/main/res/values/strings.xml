@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Star Wars Heroes</string>
+    <string name="action_settings">Настройки</string>
+    <string name="action_call">Звонок другу</string>
+    <string name="action_cheat">50/50</string>
+    <string name="number_of_choices">Кол-во вариантов ответа</string>
+    <string name="number_of_choices_description">Отображать 2, 4, 6 или 8 вариантов ответа</string>
+    <string name="results">%1$d guesses, %2$.02f%% correct</string>
+    <string name="question">Вопрос %1$d из %2$d</string>
+    <string name="title_activity_settings">Настройки</string>
+
+    <string name="permission_explanation">Ну очень надо</string>
+    <string name="ok">Ок</string>
+
+    <string name="binks">Джа-джа Бинкс</string>
+    <string name="boss_nass">Босс Насс</string>
+    <string name="chubakka">Чубакка</string>
+    <string name="duku">Граф Дуку</string>
+    <string name="fett">Джанго Фетт</string>
+    <string name="leya">Принцесса Лея</string>
+    <string name="organa">Сенатор Органа</string>
+    <string name="plo_kun">Пло Кун</string>
+    <string name="sebulba">Себульба</string>
+    <string name="vindu">Мэйс Винду</string>
+    <string name="title_activity_result">Результаты</string>
+    <string name="result_message">Ваш реузльтат</string>
+    <string name="high_scores_label">Результаты:</string>
+    <string name="save_results_btn">Сохранить</string>
+    <string name="input_name">Введите имя</string>
+</resources>

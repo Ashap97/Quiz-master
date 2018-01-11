@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="guesses_list">
+        <item>2</item>
+        <item>4</item>
+    </string-array>
+
+    <string-array name="presidents">
+        <item>@string/binks</item>
+        <item>@string/boss_nass</item>
+        <item>@string/chubakka</item>
+        <item>@string/duku</item>
+        <item>@string/fett</item>
+        <item>@string/leya</item>
+        <item>@string/organa</item>
+        <item>@string/plo_kun</item>
+        <item>@string/sebulba</item>
+        <item>@string/vindu</item>
+    </string-array>
+
+    <string-array name="presidents_photos">
+        <item>Binks.jpg</item>
+        <item>Boss_Nass.jpg</item>
+        <item>Chubakka.jpg</item>
+        <item>Duku.jpg</item>
+        <item>Fett.jpg</item>
+        <item>Leya.jpg</item>
+        <item>Organa.jpg</item>
+        <item>Plo-kun.jpg</item>
+        <item>Sebulba.jpg</item>
+        <item>Vindu.jpg</item>
+    </string-array>
+
+    <string-array name="answers">
+        <item>@string/binks</item>
+        <item>@string/boss_nass</item>
+        <item>@string/chubakka</item>
+        <item>@string/duku</item>
+        <item>@string/fett</item>
+        <item>@string/leya</item>
+        <item>@string/organa</item>
+        <item>@string/plo_kun</item>
+        <item>@string/sebulba</item>
+        <item>@string/vindu</item>
+    </string-array>
+
+</resources>
